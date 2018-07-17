@@ -9,6 +9,6 @@
 
 
 get'/hello/:id' do
-  @name = params[:id]
-"Hello #{@name}!"
+  @animal = params[:id]
+"hi #{@animal}!"
 end
