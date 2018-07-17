@@ -1,4 +1,4 @@
-# Sinatra Routes Lab
+ # Sinatra Routes Lab
 
 The `app.rb` file is the heart and soul of our Sinatra application. It handles
 all the incoming requests from users and directs the browser to the correct URL.
